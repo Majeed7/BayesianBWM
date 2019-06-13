@@ -1,0 +1,14 @@
+ model {
+	for(i in 1:k){
+		AB[i,1:c] ~ dmulti(1/w[i,1:c],n[i])
+		AW[i,1:c] ~ dmulti(w[i,1:c],m[i])
+        w[i,1:c] ~ ddirch(beta*wStar)
+	}   
+    
+    beta ~ dgamma(0.01 , 0.01)
+	#wStar ~ ddirch(wStarPrior)
+    wStar ~ ddirch(beta2*theta)
+    theta ~ ddirch(wStarPrior)
+	beta2 ~ dgamma(0.01,0.01)
+    	
+}
