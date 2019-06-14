@@ -5,7 +5,7 @@ http://mcmc-jags.sourceforge.net/
 
 ## Getting Started
 
-To run you example, open runme.m and replace the following three variable with your own data
+To run your example, open runme.m and replace the following three variable with your own data
 ```
 nameOfCriteria: This variable contains the name of Criteria
 A_B: contains the best-to-others vectors of all decision-makers. Each row is dedicated to a best-to-others vector from a decision-maker.
@@ -21,9 +21,9 @@ http://mcmc-jags.sourceforge.net/
 
 ## Reference
 
-If you use this implementation, please cite the following article:
+If you use this implementation, you can cite our paper:
 M. Mohammadi, J. Rezaei, Bayesian Best-Worst Method: A Probabilistic Group Decision Making Model, Omega, 2019.
 
 ## Contact
 
-If you have any problem running the code, please contact Majid Mohammadi, m.mohammadi@tudelft.nl
+If you have any problem executing the code, contact Majid Mohammadi, m.mohammadi@tudelft.nl
