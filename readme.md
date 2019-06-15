@@ -3,7 +3,7 @@
 This repository contains the MATLAB implementation of the Bayesian Best-Worst Method. You need to have JAGS installed on your machine. See the following link to download JAGS:
 http://mcmc-jags.sourceforge.net/
 
-(Make sure that the JAGS bin directory is placed in the Windows path. For example, if your computer is a Windows 7 system, you can do as following: Go to Control Panel, System and Security, System and click on "Advanced System Settings" followed by "Environment Variables". Under System variables, click on Path, and add the jags path to the string. This could look something like "C:\Program Files\JAGS\JAGS-3.3.0\x64\bin" or whatever the path is. Note that you should put a semicolon at the end of the existing path before pasting in the JAGS path. If you have Matlab up and running already, quit Matlab and start it again to make sure that the new path is used by Matlab.)
+(Please make sure that the JAGS bin directory is placed in the Windows path. For example, if your computer is a Windows 7 system, you can do as following: Go to Control Panel, System and Security, System and click on "Advanced System Settings" followed by "Environment Variables". Under System variables, click on Path, and add the jags path to the string. This could look something like "C:\Program Files\JAGS\JAGS-3.3.0\x64\bin" or whatever the path is. Note that you should put a semicolon at the end of the existing path before pasting in the JAGS path. If you have Matlab up and running already, quit Matlab and start it again to make sure that the new path is used by Matlab.)
 
 ## Getting Started
 
