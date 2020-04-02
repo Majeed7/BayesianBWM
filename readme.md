@@ -26,4 +26,4 @@ M. Mohammadi, J. Rezaei, Bayesian Best-Worst Method: A Probabilistic Group Decis
 
 ## Contact
 
-If you have any problem executing the code, contact Majid Mohammadi, m.mohammadi@tudelft.nl
+If you have any problem executing the code, contact Majid Mohammadi, majid.mohammadi690@tudelft.nl
