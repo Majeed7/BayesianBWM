@@ -22,9 +22,6 @@ You need to have JAGS installed on your machine. For doing so, follow the steps 
 
 3. If you have Matlab up and running already, quit MATLAB and start again to make sure that the new path is used by MATLAB.
 
-See the following link to download JAGS:
-http://mcmc-jags.sourceforge.net/
-
 
 ## Reference
 
