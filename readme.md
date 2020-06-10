@@ -8,7 +8,7 @@ http://mcmc-jags.sourceforge.net/
 You need to have JAGS installed on your machine. For doing so, follow the steps below:
  1. Visit the jags development site at http://mcmc-jags.sourceforge.net/ and follow instructions to install the windows version of JAGS.
 
-2. In Windows, go to Control Panel, "System and Security", "System", and click on "Advanced System Settings", followed by "Environment Variables" in the "advanced" tab. Under "System variables", click on Path, and add the jags path to the string. This could look something like "C:\Program Files\JAGS\JAGS-3.0.0\x64\bin" or whatever the path is.
+2. In Windows, go to Control Panel, "System and Security", "System", and click on "Advanced System Settings", followed by "Environment Variables" in the "advanced" tab. Under "System variables", click on Path, and add the jags path to the string. This could look something like "C:\Program Files\JAGS\JAGS-3.4.0\x64\bin" or whatever the path is.
 
 3. If you have Matlab up and running already, quit MATLAB and start again to make sure that the new path is used by MATLAB.
 
