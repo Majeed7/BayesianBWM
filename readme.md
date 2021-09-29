@@ -26,7 +26,7 @@ A_W: contains the worst-to-other vectors of all decision-makers. Each row is ded
 ## Reference
 
 If you use this implementation, you can cite our paper:
-M. Mohammadi, J. Rezaei, Bayesian Best-Worst Method: A Probabilistic Group Decision Making Model, Omega, 2019.
+M. Mohammadi, J. Rezaei, Bayesian Best-Worst Method: A Probabilistic Group Decision Making Model, Omega, 2020.
 
 ## Contact
 
