@@ -16,12 +16,16 @@ You need to have JAGS installed on your machine. For doing so, follow the steps 
 
 ## Run your example
 
-To run your example, open runme.m and replace the following three variable with your own data
+To run your example, open runme.m and replace the following three variables with your own data
 ```
 nameOfCriteria: This variable contains the name of Criteria
 A_B: contains the best-to-others vectors of all decision-makers. Each row is dedicated to a best-to-others vector from a decision-maker.
-A_W: contains the worst-to-other vectors of all decision-makers. Each row is dedicated to a others-to-worst vector from a decision-maker.
+A_W: contains the worst-to-other vectors of all decision-makers. Each row is dedicated to an others-to-worst vector from a decision-maker.
 ```
+## Tutorial in Persian/Farsi 
+[Reyhane Fotouhnezhad](https://www.linkedin.com/in/reyhane-fotouhnezhad-2b128429a) has made [this video](https://youtu.be/oWlvtPbIXNE) on how to set up MATLAB to run an example using Bayesian BWM *(the video is in Farsi/Persian language)*.
+
+If you are interested in making videos on how to set up MATLAB for Bayesian BWM, feel free to reach out, and I will be happy to share it on this page.
 
 ## Reference
 
