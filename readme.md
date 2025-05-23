@@ -3,7 +3,7 @@
 This repository contains the MATLAB implementation of the Bayesian Best-Worst Method. You need to have JAGS installed on your machine. See the following link to download JAGS:
 http://mcmc-jags.sourceforge.net/
 
-For the **Python implementation**, go to [https://colab.research.google.com/drive/1kz7m2lA_cXvA8YvsRNPvgHiSR-GOCEYp](https://colab.research.google.com/drive/1O-hn97A9_pyTUMwYe3KsGiyodghgFwsG#scrollTo=cEU89bUXDq6C). You can simply execute it through your browser without requiring to install anything, though you must have a Google account.
+For the **Python implementation**, go to [this Colab page](https://colab.research.google.com/drive/1O-hn97A9_pyTUMwYe3KsGiyodghgFwsG#scrollTo=cEU89bUXDq6C). You can simply execute it through your browser without requiring to install anything, though you must have a Google account.
 
 ### Prerequisites
 
