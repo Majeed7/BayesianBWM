@@ -7,7 +7,7 @@ clc
 %           decision maker
 
 nameOfCriteria = {'Cost of delivery','Lead time','Non-competitor','Price','Production fac.','Quality','Compliance','Sus. per'};
-A_B = [3 4 6 1 5 2 9 7 ;
+A_B = [7 4 6 1 5 2 9 7 ;
        1 2 8 4 5 3 9 6;
        2 2 3 1 5 5 9 8 ;
        2 1 8 2 9 3 8 8 ;
