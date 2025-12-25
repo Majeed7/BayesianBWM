@@ -6,7 +6,7 @@ clc
 %A_B is the matrix whose rows are the best-to-others vector of each
 %           decision maker
 
-nameOfCriteria = {'Cost of delivery','Lead time','Non-competitor','Price','Production fac.','Quality','Compliance','Sus. per'};
+nameOfCriteria = {'Cost oftest delivery','Lead time','Non-competitor','Price','Production fac.','Quality','Compliance','Sus. per'};
 A_B = [3 4 6 1 5 2 9 7 ;
        1 2 8 4 5 3 9 6;
        2 2 3 1 5 5 9 8 ;
