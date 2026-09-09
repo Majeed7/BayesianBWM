@@ -11,7 +11,7 @@ function [w_final,wall] = BayesianBWM(A_B,A_W)
      
 k = size(A_B,1);
 c = size(A_B,2);
-wStar_prior = (1/10000000) * ones(size(A_W,2),1);
+wStar_prior = (1/1000) * ones(size(A_W,2),1);
 w = 1/k * ones(k,c);
 
 % Save prior constants in a structure for later use with matjags
